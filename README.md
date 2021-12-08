@@ -12,7 +12,7 @@ Obviusly this is not very fair so please donate to the one who made this tool:
 
 * XMR:`48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
 
-If you want to thank me, please donate to my wallet:
+If you want to support me please donate to my wallet:
 
 * XMR:`44TABHa24tB47FyvRfjUA6ASDiW26WoMXXtFuKrjXDSAP9ybzshbw6ZFeNwUf2UMGL279DfzLeBkzg6PAsZ5AruMRGDUaZx` 
 
